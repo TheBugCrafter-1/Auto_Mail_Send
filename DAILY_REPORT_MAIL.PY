@@ -4,8 +4,8 @@ from datetime import datetime
 
 # ===== USER INPUT =====
 
-to = "ashishberiya11@gmail.com"
-cc = "witcher000000000@gmail.com,ashishberiy@gmail.com,ashishberiya10@gmail.com"
+to = "ADD YOUR MAILS HERE"
+cc = "ADD MAIL IN CC OPTIONAL"
 
 # Aaj ki date automatically
 today = datetime.now().strftime("%d-%m-%Y")
